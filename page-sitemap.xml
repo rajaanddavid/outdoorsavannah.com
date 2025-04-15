@@ -55,13 +55,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://outdoorsavannah.com/product/premade-cat-wall/</loc>
-		<lastmod>2025-04-09T00:07:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://outdoorsavannah.com/wp-content/uploads/2025/04/premade-cat-wall_1.2.2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://outdoorsavannah.com/product/shelf-brackets/</loc>
 		<lastmod>2025-04-09T00:07:31+00:00</lastmod>
 		<image:image>
@@ -171,6 +164,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://outdoorsavannah.com/wp-content/uploads/2025/04/anchors.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://outdoorsavannah.com/product/cat-shelves/</loc>
+		<lastmod>2025-04-15T20:00:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://outdoorsavannah.com/wp-content/uploads/2025/04/premade-cat-wall_1.2.2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
